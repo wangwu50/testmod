@@ -1,3 +1,1 @@
-module github.com/wangwu50/testmod
-
-go 1.12
+module github.com/robteix/testmod/v2
